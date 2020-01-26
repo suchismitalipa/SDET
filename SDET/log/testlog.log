@@ -1,0 +1,256 @@
+2020-01-26 12:00:42,993 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:00:43,017 - SDET -INFO - ********Opening URL********
+2020-01-26 12:00:45,671 - SDET -INFO - ********Providing Login Details********
+2020-01-26 12:00:45,894 - SDET -INFO - ********Started Login********
+2020-01-26 12:00:51,085 - SDET -INFO - ********Dashboard********
+2020-01-26 12:00:59,449 - SDET -INFO - ********Adding new Customer********
+2020-01-26 12:01:06,660 - SDET -INFO - ********Adding new Customer********
+2020-01-26 12:01:09,678 - SDET -INFO - ********Providing new Customer details********
+2020-01-26 12:01:19,787 - SDET -INFO - ********Saving new Customer********
+2020-01-26 12:01:24,806 - SDET -INFO - ********Close the Browser********
+2020-01-26 12:01:27,123 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:01:27,126 - SDET -INFO - ********Opening URL********
+2020-01-26 12:01:29,352 - SDET -INFO - ********Providing Login Details********
+2020-01-26 12:01:29,571 - SDET -INFO - ********Started Login********
+2020-01-26 12:01:33,858 - SDET -INFO - ********Dashboard********
+2020-01-26 12:01:41,047 - SDET -INFO - ********Entering Customer email********
+2020-01-26 12:01:47,496 - SDET -INFO - ********Close the Browser********
+2020-01-26 12:01:49,799 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:01:49,804 - SDET -INFO - ********Opening URL********
+2020-01-26 12:01:51,403 - SDET -INFO - ********Providing Login Details********
+2020-01-26 12:01:51,619 - SDET -INFO - ********Started Login********
+2020-01-26 12:01:55,743 - SDET -INFO - ********Dashboard********
+2020-01-26 12:02:02,892 - SDET -INFO - ********Entering new Customer first Name********
+2020-01-26 12:02:03,011 - SDET -INFO - ********Entering new Customer last Name********
+2020-01-26 12:02:06,480 - SDET -INFO - ********Close the Browser********
+2020-01-26 12:02:08,806 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:02:08,810 - SDET -INFO - ********Opening URL********
+2020-01-26 12:02:11,269 - SDET -INFO - ********Providing Login Details********
+2020-01-26 12:02:11,487 - SDET -INFO - ********Started Login********
+2020-01-26 12:02:17,252 - SDET -INFO - ********Login Passed********
+2020-01-26 12:02:17,253 - SDET -INFO - ********Click on LogOut********
+2020-01-26 12:02:22,512 - SDET -INFO - ********Login Passed********
+2020-01-26 12:02:22,512 - SDET -INFO - ********Close the Browser********
+2020-01-26 12:02:24,868 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:02:24,872 - SDET -INFO - ********Opening URL********
+2020-01-26 12:02:27,046 - SDET -INFO - ********Providing Login Details********
+2020-01-26 12:02:27,277 - SDET -INFO - ********Started Login********
+2020-01-26 12:02:32,404 - SDET -INFO - ********Login Passed********
+2020-01-26 12:02:32,405 - SDET -INFO - ********Click on LogOut********
+2020-01-26 12:02:36,794 - SDET -INFO - ********Login Passed********
+2020-01-26 12:02:36,795 - SDET -INFO - ********Close the Browser********
+2020-01-26 12:02:39,116 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:02:39,120 - SDET -INFO - ********Opening URL********
+2020-01-26 12:02:41,194 - SDET -INFO - ********Providing Login Details********
+2020-01-26 12:02:41,414 - SDET -INFO - ********Started Login********
+2020-01-26 12:33:43,412 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:33:43,441 - SDET -INFO - ********Opening URL********
+2020-01-26 12:33:46,409 - SDET -INFO - ********Providing Login Details********
+2020-01-26 12:33:46,679 - SDET -INFO - ********Started Login********
+2020-01-26 12:33:51,777 - SDET -INFO - ********Dashboard********
+2020-01-26 12:33:59,114 - SDET -INFO - ********Adding new Customer********
+2020-01-26 12:34:03,268 - SDET -INFO - ********Adding new Customer********
+2020-01-26 12:34:06,285 - SDET -INFO - ********Providing new Customer details********
+2020-01-26 12:34:16,413 - SDET -INFO - ********Saving new Customer********
+2020-01-26 12:34:21,961 - SDET -INFO - ********Close the Browser********
+2020-01-26 12:34:26,885 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:34:26,890 - SDET -INFO - ********Opening URL********
+2020-01-26 12:34:29,135 - SDET -INFO - ********Providing Login Details********
+2020-01-26 12:34:29,356 - SDET -INFO - ********Started Login********
+2020-01-26 12:34:34,487 - SDET -INFO - ********Dashboard********
+2020-01-26 12:34:42,772 - SDET -INFO - ********Entering Customer email********
+2020-01-26 12:34:49,238 - SDET -INFO - ********Close the Browser********
+2020-01-26 12:34:53,736 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:34:53,743 - SDET -INFO - ********Opening URL********
+2020-01-26 12:34:55,937 - SDET -INFO - ********Providing Login Details********
+2020-01-26 12:34:56,195 - SDET -INFO - ********Started Login********
+2020-01-26 12:35:02,063 - SDET -INFO - ********Dashboard********
+2020-01-26 12:35:10,120 - SDET -INFO - ********Entering new Customer first Name********
+2020-01-26 12:35:10,246 - SDET -INFO - ********Entering new Customer last Name********
+2020-01-26 12:35:13,726 - SDET -INFO - ********Close the Browser********
+2020-01-26 12:35:18,383 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:35:18,388 - SDET -INFO - ********Opening URL********
+2020-01-26 12:35:21,563 - SDET -INFO - ********Providing Login Details********
+2020-01-26 12:35:21,898 - SDET -INFO - ********Started Login********
+2020-01-26 12:35:26,032 - SDET -INFO - ********Login Passed********
+2020-01-26 12:35:26,032 - SDET -INFO - ********Click on LogOut********
+2020-01-26 12:35:31,891 - SDET -INFO - ********Login Passed********
+2020-01-26 12:35:31,892 - SDET -INFO - ********Close the Browser********
+2020-01-26 12:35:36,442 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:35:36,443 - SDET -INFO - ********Opening URL********
+2020-01-26 12:35:38,639 - SDET -INFO - ********Providing Login Details********
+2020-01-26 12:35:38,854 - SDET -INFO - ********Started Login********
+2020-01-26 12:35:45,533 - SDET -INFO - ********Login Passed********
+2020-01-26 12:35:45,535 - SDET -INFO - ********Click on LogOut********
+2020-01-26 12:35:51,436 - SDET -INFO - ********Login Passed********
+2020-01-26 12:35:51,437 - SDET -INFO - ********Close the Browser********
+2020-01-26 12:35:55,858 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:35:55,859 - SDET -INFO - ********Opening URL********
+2020-01-26 12:35:57,871 - SDET -INFO - ********Providing Login Details********
+2020-01-26 12:35:58,099 - SDET -INFO - ********Started Login********
+2020-01-26 12:38:01,927 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:38:01,959 - SDET -INFO - ********Opening URL********
+2020-01-26 12:38:03,987 - SDET -INFO - ********Providing Login Details********
+2020-01-26 12:38:04,192 - SDET -INFO - ********Started Login********
+2020-01-26 12:38:09,438 - SDET -INFO - ********Dashboard********
+2020-01-26 12:38:16,764 - SDET -INFO - ********Adding new Customer********
+2020-01-26 12:38:21,751 - SDET -INFO - ********Adding new Customer********
+2020-01-26 12:38:24,771 - SDET -INFO - ********Providing new Customer details********
+2020-01-26 12:38:34,850 - SDET -INFO - ********Saving new Customer********
+2020-01-26 12:38:40,366 - SDET -INFO - ********Close the Browser********
+2020-01-26 12:39:32,947 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:39:32,975 - SDET -INFO - ********Opening URL********
+2020-01-26 12:39:35,602 - SDET -INFO - ********Providing Login Details********
+2020-01-26 12:39:35,806 - SDET -INFO - ********Started Login********
+2020-01-26 12:39:40,717 - SDET -INFO - ********Dashboard********
+2020-01-26 12:43:24,423 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:43:24,454 - SDET -INFO - ********Opening URL********
+2020-01-26 12:43:24,485 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:43:24,485 - SDET -INFO - ********Opening URL********
+2020-01-26 12:43:24,501 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:43:24,501 - SDET -INFO - ********Opening URL********
+2020-01-26 12:44:09,498 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:44:09,513 - SDET -INFO - ********Opening URL********
+2020-01-26 12:44:09,545 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:44:09,545 - SDET -INFO - ********Opening URL********
+2020-01-26 12:44:09,545 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:44:09,560 - SDET -INFO - ********Opening URL********
+2020-01-26 12:44:45,798 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:44:45,822 - SDET -INFO - ********Opening URL********
+2020-01-26 12:44:48,271 - SDET -INFO - ********Providing Login Details********
+2020-01-26 12:44:48,486 - SDET -INFO - ********Started Login********
+2020-01-26 12:46:02,570 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:46:02,620 - SDET -INFO - ********Opening URL********
+2020-01-26 12:46:02,886 - SDET -INFO - ********Providing Login Details********
+2020-01-26 12:46:04,987 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:46:04,988 - SDET -INFO - ********Opening URL********
+2020-01-26 12:46:05,082 - SDET -INFO - ********Providing Login Details********
+2020-01-26 12:46:06,848 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:46:06,851 - SDET -INFO - ********Opening URL********
+2020-01-26 12:46:06,960 - SDET -INFO - ********Providing Login Details********
+2020-01-26 12:47:47,352 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:47:47,378 - SDET -INFO - ********Opening URL********
+2020-01-26 12:47:47,487 - SDET -INFO - ********Providing Login Details********
+2020-01-26 12:47:49,298 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:47:49,299 - SDET -INFO - ********Opening URL********
+2020-01-26 12:47:49,402 - SDET -INFO - ********Providing Login Details********
+2020-01-26 12:47:51,164 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:47:51,165 - SDET -INFO - ********Opening URL********
+2020-01-26 12:47:51,254 - SDET -INFO - ********Providing Login Details********
+2020-01-26 12:49:18,491 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:49:18,521 - SDET -INFO - ********Opening URL********
+2020-01-26 12:49:18,662 - SDET -INFO - ********Providing Login Details********
+2020-01-26 12:49:20,548 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:49:20,549 - SDET -INFO - ********Opening URL********
+2020-01-26 12:49:20,738 - SDET -INFO - ********Providing Login Details********
+2020-01-26 12:49:22,661 - SDET -INFO - ********Lunching Browser********
+2020-01-26 12:49:22,663 - SDET -INFO - ********Opening URL********
+2020-01-26 12:49:22,758 - SDET -INFO - ********Providing Login Details********
+2020-01-26 13:02:40,053 - SDET -INFO - ********Lunching Browser********
+2020-01-26 13:02:40,083 - SDET -INFO - ********Opening URL********
+2020-01-26 13:02:42,458 - SDET -INFO - ********Providing Login Details********
+2020-01-26 13:02:42,684 - SDET -INFO - ********Started Login********
+2020-01-26 13:02:48,766 - SDET -INFO - ********Dashboard********
+2020-01-26 13:02:56,172 - SDET -INFO - ********Adding new Customer********
+2020-01-26 13:03:00,252 - SDET -INFO - ********Adding new Customer********
+2020-01-26 13:03:03,269 - SDET -INFO - ********Providing new Customer details********
+2020-01-26 13:03:13,421 - SDET -INFO - ********Saving new Customer********
+2020-01-26 13:03:18,123 - SDET -INFO - ********Close the Browser********
+2020-01-26 13:03:20,499 - SDET -INFO - ********Lunching Browser********
+2020-01-26 13:03:20,502 - SDET -INFO - ********Opening URL********
+2020-01-26 13:03:22,719 - SDET -INFO - ********Providing Login Details********
+2020-01-26 13:03:22,933 - SDET -INFO - ********Started Login********
+2020-01-26 13:03:28,750 - SDET -INFO - ********Login Passed********
+2020-01-26 13:03:28,751 - SDET -INFO - ********Click on LogOut********
+2020-01-26 13:03:33,239 - SDET -INFO - ********Login Passed********
+2020-01-26 13:03:33,240 - SDET -INFO - ********Close the Browser********
+2020-01-26 13:10:15,370 - SDET -INFO - ********Lunching Browser********
+2020-01-26 13:10:15,399 - SDET -INFO - ********Opening URL********
+2020-01-26 13:10:18,061 - SDET -INFO - ********Providing Login Details********
+2020-01-26 13:10:18,285 - SDET -INFO - ********Started Login********
+2020-01-26 13:10:23,259 - SDET -INFO - ********Dashboard********
+2020-01-26 13:10:30,551 - SDET -INFO - ********Adding new Customer********
+2020-01-26 13:10:34,707 - SDET -INFO - ********Adding new Customer********
+2020-01-26 13:10:37,724 - SDET -INFO - ********Providing new Customer details********
+2020-01-26 13:10:47,874 - SDET -INFO - ********Saving new Customer********
+2020-01-26 13:10:52,714 - SDET -INFO - ********Close the Browser********
+2020-01-26 13:10:55,086 - SDET -INFO - ********Lunching Browser********
+2020-01-26 13:10:55,090 - SDET -INFO - ********Opening URL********
+2020-01-26 13:10:57,254 - SDET -INFO - ********Providing Login Details********
+2020-01-26 13:10:57,467 - SDET -INFO - ********Started Login********
+2020-01-26 13:11:01,931 - SDET -INFO - ********Login Passed********
+2020-01-26 13:11:01,932 - SDET -INFO - ********Click on LogOut********
+2020-01-26 13:11:06,416 - SDET -INFO - ********Login Passed********
+2020-01-26 13:11:06,417 - SDET -INFO - ********Close the Browser********
+2020-01-26 13:17:39,792 - nopComemrce -INFO - ******** Launching browser*********
+2020-01-26 13:17:39,820 - nopComemrce -INFO - ********Opening URL********
+2020-01-26 13:18:16,756 - nopComemrce -INFO - ********Providing Login Details********
+2020-01-26 13:18:17,001 - nopComemrce -INFO - ********Started Login********
+2020-01-26 13:18:35,932 - nopComemrce -INFO - ********Dashboard********
+2020-01-26 13:18:44,526 - nopComemrce -INFO - ********Adding new Customer********
+2020-01-26 13:18:52,616 - nopComemrce -INFO - ********Adding new Customer********
+2020-01-26 13:18:55,634 - nopComemrce -INFO - ********Providing new Customer details********
+2020-01-26 13:19:05,769 - nopComemrce -INFO - ********Saving new Customer********
+2020-01-26 13:19:10,898 - nopComemrce -INFO - ********Close the Browser********
+2020-01-26 13:19:13,361 - nopComemrce -INFO - ******** Launching browser*********
+2020-01-26 13:19:13,369 - nopComemrce -INFO - ********Opening URL********
+2020-01-26 13:19:16,388 - nopComemrce -INFO - ********Providing Login Details********
+2020-01-26 13:19:16,598 - nopComemrce -INFO - ********Started Login********
+2020-01-26 13:19:36,461 - nopComemrce -INFO - ********Login Passed********
+2020-01-26 13:19:36,462 - nopComemrce -INFO - ********Click on LogOut********
+2020-01-26 13:19:41,157 - nopComemrce -INFO - ********Login Passed********
+2020-01-26 13:19:41,158 - nopComemrce -INFO - ********Close the Browser********
+2020-01-26 17:37:40,081 - nopComemrce -INFO - ******** Launching browser*********
+2020-01-26 17:37:40,311 - nopComemrce -INFO - ********Opening URL********
+2020-01-26 17:37:43,452 - nopComemrce -INFO - ********Providing Login Details********
+2020-01-26 17:37:44,185 - nopComemrce -INFO - ********Started Login********
+2020-01-26 17:37:50,060 - nopComemrce -INFO - ********Dashboard********
+2020-01-26 17:37:57,759 - nopComemrce -INFO - ********Adding new Customer********
+2020-01-26 17:38:02,580 - nopComemrce -INFO - ********Adding new Customer********
+2020-01-26 17:38:05,591 - nopComemrce -INFO - ********Providing new Customer details********
+2020-01-26 17:38:16,915 - nopComemrce -INFO - ********Saving new Customer********
+2020-01-26 17:38:22,472 - nopComemrce -INFO - ********Close the Browser********
+2020-01-26 17:38:25,397 - nopComemrce -INFO - ******** Launching browser*********
+2020-01-26 17:38:25,404 - nopComemrce -INFO - ********Opening URL********
+2020-01-26 17:38:27,623 - nopComemrce -INFO - ********Providing Login Details********
+2020-01-26 17:38:28,234 - nopComemrce -INFO - ********Started Login********
+2020-01-26 17:38:35,748 - nopComemrce -INFO - ********Login Passed********
+2020-01-26 17:38:35,749 - nopComemrce -INFO - ********Click on LogOut********
+2020-01-26 17:38:40,413 - nopComemrce -INFO - ********Login Passed********
+2020-01-26 17:38:40,415 - nopComemrce -INFO - ********Close the Browser********
+2020-01-26 17:47:43,049 - nopComemrce -INFO - ******** Launching browser*********
+2020-01-26 17:47:43,106 - nopComemrce -INFO - ********Opening URL********
+2020-01-26 17:48:22,273 - nopComemrce -INFO - ********Providing Login Details********
+2020-01-26 17:48:22,626 - nopComemrce -INFO - ********Started Login********
+2020-01-26 17:48:36,997 - nopComemrce -INFO - ********Dashboard********
+2020-01-26 17:48:45,736 - nopComemrce -INFO - ********Adding new Customer********
+2020-01-26 17:48:53,446 - nopComemrce -INFO - ********Adding new Customer********
+2020-01-26 17:48:56,474 - nopComemrce -INFO - ********Providing new Customer details********
+2020-01-26 17:49:07,408 - nopComemrce -INFO - ********Saving new Customer********
+2020-01-26 17:49:13,411 - nopComemrce -INFO - ********Close the Browser********
+2020-01-26 17:49:15,990 - nopComemrce -INFO - ******** Launching browser*********
+2020-01-26 17:49:15,997 - nopComemrce -INFO - ********Opening URL********
+2020-01-26 17:49:18,248 - nopComemrce -INFO - ********Providing Login Details********
+2020-01-26 17:49:18,853 - nopComemrce -INFO - ********Started Login********
+2020-01-26 17:49:23,414 - nopComemrce -INFO - ********Login Passed********
+2020-01-26 17:49:23,414 - nopComemrce -INFO - ********Click on LogOut********
+2020-01-26 17:49:29,435 - nopComemrce -INFO - ********Login Passed********
+2020-01-26 17:49:29,435 - nopComemrce -INFO - ********Close the Browser********
+2020-01-26 18:08:21,721 - nopComemrce -INFO - ******** Launching browser*********
+2020-01-26 18:08:21,769 - nopComemrce -INFO - ********Opening URL********
+2020-01-26 18:08:24,363 - nopComemrce -INFO - ********Providing Login Details********
+2020-01-26 18:08:24,832 - nopComemrce -INFO - ********Started Login********
+2020-01-26 18:08:30,407 - nopComemrce -INFO - ********Dashboard********
+2020-01-26 18:08:38,501 - nopComemrce -INFO - ********Adding new Customer********
+2020-01-26 18:08:42,932 - nopComemrce -INFO - ********Adding new Customer********
+2020-01-26 18:08:45,960 - nopComemrce -INFO - ********Providing new Customer details********
+2020-01-26 18:08:57,223 - nopComemrce -INFO - ********Saving new Customer********
+2020-01-26 18:09:02,299 - nopComemrce -INFO - ********Close the Browser********
+2020-01-26 18:09:04,667 - nopComemrce -INFO - ******** Launching browser*********
+2020-01-26 18:09:04,683 - nopComemrce -INFO - ********Opening URL********
+2020-01-26 18:09:06,888 - nopComemrce -INFO - ********Providing Login Details********
+2020-01-26 18:09:07,229 - nopComemrce -INFO - ********Started Login********
+2020-01-26 18:09:13,187 - nopComemrce -INFO - ********Login Passed********
+2020-01-26 18:09:13,189 - nopComemrce -INFO - ********Click on LogOut********
+2020-01-26 18:09:17,809 - nopComemrce -INFO - ********Login Passed********
+2020-01-26 18:09:17,811 - nopComemrce -INFO - ********Close the Browser********
